@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Привет! Я Илья Дубиневич
+Frontend-разработчик с 5+ годами коммерческого опыта. Специализируюсь на создании масштабируемых enterprise-систем (госсектор, финтех).
 
-<!--
-**ilyariver/ilyariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠 Основной стек:** 
+`Angular (11-21)` `React` `Next.js` `TypeScript (Strict)` `RxJS` `Redux` `LLM Integration`
 
-Here are some ideas to get you started:
+**🎯 Чем занимаюсь:**
+- ⚡ Оптимизация производительности (SSR, устранение утечек памяти, +30% к скорости)
+- 🏗 Проектирование архитектуры и миграция legacy-кода
+- 📊 Разработка интерактивных дашбордов, карт и UI-китов
+- 🤖 Интеграция AI-агентов и LLM API в пользовательские интерфейсы
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 **Связь:** [Telegram](https://t.me/ilya_river) | ✉️ bucks20007@gmail.com
